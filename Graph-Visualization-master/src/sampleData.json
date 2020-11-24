@@ -1,0 +1,84 @@
+{
+    "vertices": [
+      {
+        "id": "n1",
+        "label": "node1",
+        "type": "node"
+      },
+      {
+        "id": "n2",
+        "label": "node2",
+        "type": "node"
+      },
+      {
+        "id": "n3",
+        "label": "node3",
+        "type": "node"
+      },
+      {
+        "id": "n4",
+        "label": "node4",
+        "type": "node"
+      },
+      {
+        "id": "n5",
+        "label": "node5",
+        "type": "node"
+      },
+      {
+        "id": "n6",
+        "label": "node6",
+        "type": "node"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "label": "edge n1-n2",
+        "source_id": "n1",
+        "target_id": "n2"
+      },
+      {
+        "id": "e2",
+        "label": "edge n2-n3",
+        "source_id": "n2",
+        "target_id": "n3"
+      },
+      {
+        "id": "e3",
+        "label": "edge n3-n4",
+        "source_id": "n3",
+        "target_id": "n4"
+      },
+      {
+        "id": "e4",
+        "label": "edge n4-n5",
+        "source_id": "n4",
+        "target_id": "n5"
+      },
+      {
+        "id": "e5",
+        "label": "edge n5-n6",
+        "source_id": "n5",
+        "target_id": "n6"
+      },
+      {
+        "id": "e6",
+        "label": "edge n6-n1",
+        "source_id": "n6",
+        "target_id": "n1"
+      },
+      {
+        "id": "e7",
+        "label": "edge n6-n1",
+        "source_id": "n6",
+        "target_id": "n2"
+      },
+      {
+        "id": "e8",
+        "label": "edge n6-n1",
+        "source_id": "n6",
+        "target_id": "n3"
+      }
+    ]
+  }
